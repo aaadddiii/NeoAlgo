@@ -75,7 +75,7 @@
 - [Leaf Nodes in Binary Search Tree](ds/Leaf_Nodes_BST.c)
 - [Hash Table using Linear Probing](ds/Hash_Table.c)
 - [Construction Of Binary Tree From Preorder And Inorder Traversals](ds/binary_tree_from_preorder_and_inorder.c)
-
+- [Iterative algorithms for preorder inorder and postorder traversals](ds/iterative_inorder_preorder_postorder.c)
 ## Searching
 
 - [Binary Search](search/BinarySearch.c)
